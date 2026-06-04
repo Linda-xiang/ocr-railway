@@ -1,0 +1,5 @@
+flask==2.3.3
+rapidocr-onnxruntime>=1.4.0
+pillow
+numpy
+gunicorn
